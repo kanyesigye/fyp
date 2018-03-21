@@ -1,0 +1,3 @@
+/home/johntuza/CLionProjects/Distributed_Rpc_Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/johntuza/CLionProjects/Distributed_Rpc_Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/johntuza/CLionProjects/Distributed_Rpc_Client/cmake-build-debug/CMakeFiles/Distributed_Rpc_Client.dir

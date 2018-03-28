@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/johntuza/CLionProjects/Distributed_Rpc_Client/main.c
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+arpa/inet.h
+-
+sys/socket.h
+-
+unistd.h
+-
+signal.h
+-
+errno.h
+-
+
